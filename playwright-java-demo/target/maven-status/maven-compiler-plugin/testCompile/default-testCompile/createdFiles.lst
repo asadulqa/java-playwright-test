@@ -1,0 +1,6 @@
+com/demo/tests/SauceDemoTest.class
+com/demo/tests/BaseTest.class
+com/demo/pages/InventoryPage.class
+com/demo/locators/SauceDemoLocators.class
+com/demo/pages/LoginPage.class
+com/demo/pages/BasePage.class
